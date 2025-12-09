@@ -2,6 +2,31 @@
 
 跨平台的 ECH Workers 代理客户端，支持 Windows 和 macOS。
 
+---
+Github代码地址：[点此跳转](https://raw.githubusercontent.com/byJoey/ech-wk/refs/heads/main/_worker.js)
+
+
+
+ECH-WORK电脑版下载：[点此跳转](https://mega.nz/file/KogxgLgR#RQlS1Tfv6JPQl9wBW6bog2xd_eDb8eRxC3jjFmU8SYA)
+
+
+
+ECH-work安卓手机版下载：[点此跳转](https://mega.nz/file/Wto02KTS#fflVxXubHTal71PlUDrZQHs3JjgEps16VZxTzgqmPnM)
+
+
+ECH域名：cloudflare-ech.com
+
+
+**DOH服务器：**
+
+阿里云（默认）：dns.alidns.com/dns-query
+
+腾讯 DNSPod：doh.pub/dns-query
+ 
+360 安全 DNS： doh.360.cn/dns-query
+
+---
+
 ## 致谢
 
 本项目的客户端和 Go 核心程序均基于 [白嫖哥](https://t.me/CF_NAT) 的原始代码开发。
