@@ -29,9 +29,9 @@ ECH域名：cloudflare-ech.com
 
 ## 致谢
 
-本项目的客户端和 Go 核心程序均基于 [白嫖哥](https://t.me/CF_NAT) 的原始代码开发。
+本项目的客户端和 Go 核心程序均基于 [CF_NAT](https://t.me/CF_NAT) 的原始代码开发。
 
-- **原始项目来源**: [白嫖哥 - 中转](https://t.me/CF_NAT)
+- **原始项目来源**: [CF_NAT - 中转](https://t.me/CF_NAT)
 
 ## 功能特性
 
@@ -84,8 +84,8 @@ python3 gui.py
 ## 文件说明
 
 ### 核心文件
-- `ech-workers.go` - Go 源码（核心代理程序，基于 [白嫖哥](https://t.me/CF_NAT) 的原始代码）
-- `gui.py` - Python GUI 客户端（使用 PyQt5，基于 [白嫖哥](https://t.me/CF_NAT) 的原始 Windows 客户端）
+- `ech-workers.go` - Go 源码（核心代理程序，基于 [CF_NAT](https://t.me/CF_NAT) 的原始代码）
+- `gui.py` - Python GUI 客户端（使用 PyQt5，基于 [CF_NAT](https://t.me/CF_NAT) 的原始 Windows 客户端）
 
 ### 配置文件
 - `go.mod`, `go.sum` - Go 模块文件
@@ -164,12 +164,12 @@ git push origin v1.0.0
 
 ## 许可证
 
-本项目基于 [白嫖哥](https://t.me/CF_NAT) 的原始代码开发。
+本项目基于 [CF_NAT](https://t.me/CF_NAT) 的原始代码开发。
 
 ## 相关链接
 
-- **原始项目**: [白嫖哥 - 优选IP Telegram 频道](https://t.me/CF_NAT)
-- **Telegram**: [@bestcfipas](https://t.me/CF_NAT)
+- **原始项目**: [CF_NAT - 优选IP Telegram 频道](https://t.me/CF_NAT)
+- **Telegram**: [@CF_NAT](https://t.me/CF_NAT)
 ## Star History
 
 <a href="https://www.star-history.com/#byJoey/ech-wk&type=timeline&logscale&legend=top-left">
